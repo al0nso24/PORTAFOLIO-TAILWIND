@@ -1,0 +1,13 @@
+#pato:hover{
+    cursor: pointer;
+}
+
+body{
+    padding: 28px;
+    margin-bottom: 15px;
+    background: url("https://wallpapercave.com/wp/wp8390818.jpg"); /*Fondo neon.*/
+}
+
+.imagenes img{
+    width: 180px;
+}
